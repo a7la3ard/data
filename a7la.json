@@ -2,9 +2,10 @@ data([
   
 { 
 "shop":"Mini Baguette",
-"address":"القدس, شارع صلاح الدين",
+"address":"أضف عنوان",
 "des":"أشهى و أطيب الوجبات السريعة و أسعار خاصة لطلاب المدارس",
 "preview":"http://sphotos-c.ak.fbcdn.net/hphotos-ak-ash3/578036_10151339938712409_1278677331_n.jpg",
+"details":"https://www.facebook.com/photo.php?fbid=10151339938712409&set=a.10150958050622409.418174.659592408&type=1&theater",
 "width":"960",
 "height":"717"
 }, 
@@ -14,6 +15,7 @@ data([
 "address":"أضف عنوان",
 "des":"آخر العروض مجانا من هنا",
 "preview":"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash4/484243_615170421829729_1778003104_n.jpg",
+"details":"https://www.facebook.com/photo.php?fbid=10151339938712409&set=a.10150958050622409.418174.659592408&type=1&theater",
 "width":"400",
 "height":"300"
 },
@@ -23,6 +25,7 @@ data([
 "address":"أضف عنوان",
 "des":"آخر العروض مجانا من هنا",
 "preview":"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash4/484243_615170421829729_1778003104_n.jpg",
+"details":"http://www.facebook.com/photo.php?fbid=10151339938712409&set=a.10150958050622409.418174.659592408&type=1&theater",
 "width":"400",
 "height":"300"
 }, 
@@ -32,6 +35,7 @@ data([
 "address":"أضف عنوان",
 "des":"آخر العروض مجانا من هنا",
 "preview":"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash4/484243_615170421829729_1778003104_n.jpg",
+"details":"https://www.facebook.com/photo.php?fbid=10151339938712409&set=a.10150958050622409.418174.659592408&type=1&theater",
 "width":"400",
 "height":"300"
 }, 
