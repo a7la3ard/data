@@ -41,6 +41,16 @@ data([
 },
 
 { 
+"shop":"مجمع فاطمة الزهراء",
+"address":"القدس, شارع صلاح الدين",
+"des":"تنزيلات على جميع الملابس الشتوية",
+"preview":"http://sphotos-c.ak.fbcdn.net/hphotos-ak-ash3/542733_517069588344705_1780926794_n.jpg",
+"details":"http://www.facebook.com/photo.php?fbid=517069588344705&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
+"width":"727",
+"height":"409"
+},
+
+{ 
 "shop":"أحلى عرض للاعلان",
 "address":"",
 "des":"للاعلان هنا: 0547361168",
