@@ -11,6 +11,16 @@ data([
 }, 
 
 { 
+"shop":"Mini Baguette",
+"address":"القدس, شارع صلاح الدين",
+"des":"اشتري شاندويش واحصل على كاسة شاي بشيكل واحد فقط",
+"preview":"http://sphotos-g.ak.fbcdn.net/hphotos-ak-ash3/155996_10151339970267409_1069350250_n.jpg",
+"details":"http://www.facebook.com/photo.php?fbid=10151339970267409&set=a.10150958050622409.418174.659592408&type=1&theater",
+"width":"547",
+"height":"409"
+}, 
+
+{ 
 "shop":"دكان عبد الله يا استاذ",
 "address":"أضف عنوان",
 "des":"آخر العروض مجانا من هنا",
