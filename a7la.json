@@ -31,6 +31,16 @@ data([
 },
 
 { 
+"shop":"Almo Petra",
+"address":"القدس, واد الجوز المنطقة الصناعية",
+"des":"عروض على جميع سيارات KIA",
+"preview":"http://sphotos-f.ak.fbcdn.net/hphotos-ak-ash3/522723_10151340088197409_686710430_n.jpg",
+"details":"http://www.facebook.com/photo.php?fbid=10151340088197409&set=a.10151331185297409.1073741825.659592408&type=1&theater",
+"width":"602",
+"height":"451"
+},
+
+{ 
 "shop":"دكان سمير",
 "address":"أضف عنوان",
 "des":"آخر العروض مجانا من هنا",
@@ -40,14 +50,6 @@ data([
 "height":"300"
 }, 
 
-{ 
-"shop":"دكان سمير",
-"address":"أضف عنوان",
-"des":"آخر العروض مجانا من هنا",
-"preview":"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash4/484243_615170421829729_1778003104_n.jpg",
-"details":"https://www.facebook.com/photo.php?fbid=10151339938712409&set=a.10150958050622409.418174.659592408&type=1&theater",
-"width":"400",
-"height":"300"
-}, 
+
 
 ])
