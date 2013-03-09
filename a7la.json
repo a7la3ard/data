@@ -14,8 +14,8 @@ data([
 "shop":"Mini Baguette",
 "address":"القدس, شارع صلاح الدين",
 "des":"اشتري شاندويش واحصل على كاسة شاي بشيكل واحد فقط",
-"preview":"http://sphotos-g.ak.fbcdn.net/hphotos-ak-ash3/155996_10151339970267409_1069350250_n.jpg",
-"details":"http://www.facebook.com/photo.php?fbid=10151339970267409&set=a.10150958050622409.418174.659592408&type=1&theater",
+"preview":"http://sphotos-h.ak.fbcdn.net/hphotos-ak-ash4/295502_517059105012420_890231727_n.jpg",
+"details":"http://www.facebook.com/photo.php?fbid=517059105012420&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
 "width":"547",
 "height":"409"
 }, 
@@ -24,8 +24,8 @@ data([
 "shop":"Almo Petra",
 "address":"القدس, واد الجوز المنطقة الصناعية",
 "des":"عروض على جميع سيارات KIA",
-"preview":"http://sphotos-e.ak.fbcdn.net/hphotos-ak-ash3/578506_10151340192907409_1220280209_n.jpg",
-"details":"http://www.facebook.com/photo.php?fbid=10151340192907409&set=a.10150958050622409.418174.659592408&type=1&theater",
+"preview":"http://sphotos-b.ak.fbcdn.net/hphotos-ak-ash4/486604_517059265012404_1142899826_n.jpg",
+"details":"http://www.facebook.com/photo.php?fbid=517059265012404&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
 "width":"849",
 "height":"314"
 },
@@ -34,20 +34,20 @@ data([
 "shop":"Almo Petra",
 "address":"القدس, واد الجوز المنطقة الصناعية",
 "des":"عروض على جميع سيارات KIA",
-"preview":"http://sphotos-f.ak.fbcdn.net/hphotos-ak-ash3/522723_10151340088197409_686710430_n.jpg",
-"details":"http://www.facebook.com/photo.php?fbid=10151340088197409&set=a.10151331185297409.1073741825.659592408&type=1&theater",
+"preview":"http://sphotos-c.ak.fbcdn.net/hphotos-ak-prn1/555120_517060388345625_294376364_n.jpg",
+"details":"http://www.facebook.com/photo.php?fbid=517060388345625&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
 "width":"602",
 "height":"451"
 },
 
 { 
-"shop":"دكان سمير",
-"address":"أضف عنوان",
-"des":"آخر العروض مجانا من هنا",
+"shop":"أحلى عرض للاعلان",
+"address":"",
+"des":"للاعلان هنا: 0547361168",
 "preview":"http://a7la3ard.appspot.com/images/logo.png",
-"details":"http://www.facebook.com/photo.php?fbid=10151339938712409&set=a.10150958050622409.418174.659592408&type=1&theater",
-"width":"400",
-"height":"300"
+"details":"http://www.facebook.com/photo.php?fbid=517053005013030&set=a.517052998346364.1073741825.517052915013039&type=1&theater",
+"width":"181",
+"height":"71"
 }, 
 
 
