@@ -34,6 +34,16 @@ data([
 "shop":"Almo Petra",
 "address":"القدس, واد الجوز المنطقة الصناعية",
 "des":"عروض على جميع سيارات KIA",
+"preview":"http://photos-c.ak.fbcdn.net/hphotos-ak-ash3/s720x720/625615_517381961646801_2042186981_n.jpg?dl=1",
+"details":"http://m.facebook.com/photo.php?fbid=517058558345808&id=517052915013039&set=a.517058555012475.1073741826.517052915013039&__user=659592408#!/photo.php?fbid=517381961646801&id=517052915013039&set=a.517058555012475.1073741826.517052915013039&__user=659592408",
+"width":"866",
+"height":"1240"
+},
+
+{ 
+"shop":"Almo Petra",
+"address":"القدس, واد الجوز المنطقة الصناعية",
+"des":"عروض على جميع سيارات KIA",
 "preview":"http://sphotos-c.ak.fbcdn.net/hphotos-ak-prn1/555120_517060388345625_294376364_n.jpg",
 "details":"http://www.facebook.com/photo.php?fbid=517060388345625&set=a.517058555012475.1073741826.517052915013039&type=1&theater",
 "width":"602",
